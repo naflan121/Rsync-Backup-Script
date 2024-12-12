@@ -25,6 +25,8 @@ If you haven't already, clone the repository containing the script:
 ```bash
 git clone https://github.com/naflan121/Rsync-Backup-Script.git
 cd Rsync-Backup-Script
+```
+
 
 # Edit the Script
 # Open the backup_script.sh file and modify the following variables to suit your environment:
